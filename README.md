@@ -1,2 +1,4 @@
 # technicalHW1
-file edit here
+newBranch
+different edit here
+main
